@@ -8,9 +8,6 @@ Installare gli strumenti Angular con  `ng npm install -g @angular/cli`
 
 Run `ng serve` per avviare il dev server. Navigate to `http://localhost:4200/`. 
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Build
 
